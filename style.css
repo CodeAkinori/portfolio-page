@@ -31,7 +31,7 @@ nav{
   letter-spacing: 1px;
 }
 span{
-  color: #828282;
+  color: #e84f4f;
 }
 
 nav ul li{
@@ -51,6 +51,7 @@ nav ul li a{
   color: #ffffff;
   margin: 20px 0px 20px;
   font-size: 20px;
+  padding-bottom: 10px;
 }
 
 nav ul li a:hover{
@@ -331,4 +332,9 @@ footer p{
   color: #f9004d;
   bottom: 35px;
   font-size: 14px ;
+}
+
+.decoration {
+  text-decoration: none;
+  color: white;
 }
